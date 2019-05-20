@@ -1,0 +1,112 @@
+
+
+Aprendizado de Máquina (Machine Learning)
+
+
+O que é Aprendizado?
+Aprendizado é a capacidade de se adaptar, modificar e melhorar seu comportamento e suas respostas, sendo portanto uma das propriedades mais importantes dos seres ditos inteligentes, sejam eles humanos ou não.
+
+
+
+O que é Machine Learning?
+Machine Learning é um subcampo da Inteligência Artificial que permite dar aos computadores a habilidade de aprender sem que sejam explicitamente programados para isso.
+
+Machine Learning ou Aprendizado de Máquina é um método de análise de dados que automatiza o desenvolvimento de modelos analíticos. Usando algoritmos que aprendem a partir de dados, o aprendizado de máquina permite que os computadores encontrem insights ocultos sem que sejam explicitamente programados para procurar algo específico.
+
+----------------------------------------------------
+
+Tipos de Aprendizagem
+
+Supervisionada: entrega os algoritmos de entrada e as possíveis saídas, através disso é possível fazer as previsões.
+Ex.quando um adulto ensina a uma criança que uma imagem tem uma laranja, na próxima vez que a criança ver essa imagem ela vai saber qua aquilo não é uma maça e sim uma laranja.
+
+
+Não Supervisionada:conjunto de dados de cadastro de clientes e quer saber quais são os clientes que compram a noite.
+
+Ex. uma criança vai e coloca o dedo na tomada na parede, ou seja ninguém disse para a criança que aquilo pode causar perigo, ela aprende sem que alguem tenha mostrado aquilo.
+
+
+Semi Supervisionada:
+
+
+Aprendizagem por Reforço: tentativa e erro, punição ou recompensa.(utilizada em robôs)
+
+
+Deep Learning:
+
+----------------------------------------------------
+Aprendizagem Supervisionada
+é apresentado dados de entrada (textos, imagens, planilhas), entrega os dados é feito um processamento, coleta e alimenta o algoritmo.
+
+(entrada e possíveis saídas)
+
+Após isso é gerado um modelo preditivo.
+
+
+
+Dados: é feita a coleta dos dados
+|
+V
+Amostra de Dados: os dados podem ser divididos em amostras
+|
+V
+Algoritmo:
+|
+V
+Modelo Treinado: treina o modelo
+|
+V
+Teste e Validação: verifica a precisão do treino
+|
+V
+Produção:
+
+Os algoritmos de aprendizado supervisionado fazem previsões com base em um conjunto de exemplos(dados históricos).
+
+
+Aprendizagem Supervisionada é dividida em duas áreas
+
+Classificação:o objetivo é prever uma classe de saída.(classe ou categoria na saída ex: Sim ou Não)
+
+
+Regressão: preve um valor numérico
+----------------------------------------------------
+
+Aprendizagem Não Supervisionada
+
+Alguns sistemas de recomendação que você encontra na internet sob a forma de automação ed marketing são baseados neste tipo de aprendizagem.
+
+O Aprendizado Não Supervisionado é usado com dados que não possuem rótulos históricos, ou seja, nós não temos variáveis target (as variáveis de saída para serem estimadas).
+
+O algoritmo não recebe durante o treinamento, os possíveis resultados e ele deve descobrir por si próprio. O objetivo é explorar os dados e encontrar alguma estrutura neles.
+
+----------------------------------------------------
+
+Casos de Uso de Machine Learning
+
+1. Detecção de Fraudes
+2. Sistemas de Recomendação
+3. Mecanismos de Busca
+4. Sistemas de Vigilância em Vídeo
+5. Reconhecimento de Manuscrito
+6. Processamento de Linguagem Natural
+7. Bots de Serviço ao Cliente
+8. Segurança de TI
+9. Análise de Streaming de Dados
+10. Manutenção Preditiva
+11. Detecção de Anomalia
+12. Previsão de Demanda
+13. Logística
+14. Negociação Financeira
+15. Diagnóstico de Cuidados de Saúde
+16. Veículos Autônomos
+17. Robôs
+
+
+
+
+
+
+
+----------------------------------------------------
+

@@ -1,0 +1,274 @@
+
+
+
+----------------------------------------------------
+
+Onde Aplicar a Ciência de Dados
+
+Vejamos alguns exemplos:
+- Detecção de fraudes
+- Carros automatizados
+- Melhores sistemas de monitoramento
+- Detecção e prevenção de epidemias
+- Detecção de terremotos
+- Educação customizada, por demanda e online
+- Medicamentos customizados, baseados no histórico de paciente
+- Processo otimizado de iluminação residencial, industrial 
+- Sistemas de busca mais eficientes
+- Geo-marketing através de smartphones
+- Marketing personalizado
+- Combate ao crime e ao terrorismo
+
+
+Atualmente, cada aspecto de um negócio está aberto para a coleta de dados:
+
+- Operações
+- Manufatura
+- Gestão de Logística
+- Comportamento do Cliente
+- Processos e Procedimentos
+- Performance de Campanhas de Marketing
+
+
+A Ciência de Dados pode ser utilizada em praticamente todas as atividades humanas, desde que dados sejam gerados e possam ser coletados, incluindo aplicações avançadas, tais como:
+
+- Sistemas de Inteligência Artificial
+- Agentes Virtuais Inteligentes
+- Robôs Advogados
+- Robôs Investidores
+- Robôs Cirurgiões
+- Sistemas de Tomada de Decisão
+----------------------------------------------------
+
+Exemplos de Aplicação da Ciência de Dados
+
+Walmart
+- Servidores de dados com 4 Petabytes de dados
+- Cada venda é registrada
+- Aproximadamente 267 milhões de transações por dia, nas 6000 lojas em todo o mundo
+- Análise de Dados focada na avaliação da efetividade de estratégias de preço e campanhas de marketing
+- Busca de melhoria na sua gestão logística e de inventário
+
+Amazon.com
+- Personalização de experiência de compra online
+- Cada cliente possui sua própria loja, baseada nas suas preferências
+- Influência das avaliações de outros usuários, nas decisões de compra
+
+Citibank
+- A análise de cada uma das transações realizadas pelo banco, nos mais de 100 países em que opera, permite a geração de insights relacionados a investimentos, mudanças de mercado, padrões de operação e condições econômicas
+
+Outros exemplos:
+- Netflix
+- Mídias Sociais (Facebook, LinkedIn, Twitter)
+- Web Apps (Uber, AirBnB)
+- Planejamento urbano (Cidades Europeias)
+- Astrofísica (Nasa)
+- Saúde Pública (Hospitais Americanos)
+- Esportes (NFL)
+
+
+Educação
+- Orientação em tempo real para que o estudante não abandone a escola
+- Personalização do processo de aprendizagem
+- Monitoramento do estudante na sua vida acadêmica
+
+Varejo
+Esta talvez seja uma das áreas mais beneficiadas pela Ciência de Dados, devido a diversidade de dados gerados.
+- Análise de sentimento da marca
+- Recomendação individualizada de produtos
+- Retenção e satisfação do cliente
+
+
+Telecom
+Desenvolver novos produtos já que os dispositivos móveis estão produzindo uma grande quantidade de dados sobre como, por que, onde e quando estão sendo usados. Estes dados são estremamente valiosos, mas devido ao volume e variedade fica difícil ingerir, armazenar e analisar estes dados que podem resultar em novos grandes insights.
+- Análise de registro de ligações
+- Geolocalização de ligações
+- Ofertas personalizadas de produtos
+
+Saúde
+- Monitoramento de sinais vitais
+- Redução de taxa de retorno de pacientes
+- Medicamentos personalizados
+
+
+Financeiro
+- Detecção de fraudes
+- Análise de risco
+- Análise de perfil
+- Geolocalização
+
+Governo
+- Fornecimento personalizado de serviços públicos
+- Mapeamento de segurança pública
+- Redução e racionalização de gastos
+
+----------------------------------------------------
+
+Business Intelligence x Ciência de Dados
+
+Business Intelligence e Data Science tem muita coisa em comum e Cientistas de Dados e Analistas de BI são como primos.
+
+Ambos usam dados com o mesmo objetivo, mas a sua abordagem, tecnologia e função diferem de diversas maneiras.
+
+Business Intelligence:
+O objetivo do BI é converter dados brutos em insights de negócio, que os líderes empresariais e gestores possam usar para tomar decisões.
+
+Ciência de Dados:
+A Ciência de Dados também converte dados brutos em insights de negócio, mas aplica metodologia científica para exploração dos dados, testes de hipóteses, modelagem estatísticas e aprendizado de máquina.
+
+BI Tradicional
+Análise :
+Descritiva -> O que aconteceu?
+Diagnóstica -> Por que isso aconteceu?
+
+Ciência de Dados
+Descritiva -> O que aconteceu?
+Diagnóstica -> Por que isso aconteceu?
+Análise :
+Preditiva -> O que acontecerá?
+Prescritiva -> O que deve ser feito?
+
+----------------------------------------------------
+
+DataOps
+
+É a operação da infraestrutura necessária para suportar a quantidade, velocidade e variedade deados disponíveis na empresa, que hoje é radicalmente diferente das abordagens de gerenciamento de dados tradicionais.
+
+A natureza do DataOps abraça a necessidade de gerenciar fontes de dados muito diferentes e gerados em tempo real, permitindo que o Cientista de Dados tenha a sua disposição a infraestrutura necessária para fazer seu trabalho.
+
+DataOps é a junção das áreas de:
+- Integração de Dados
+- Engenharia de Dados
+- Qualidade de Dados
+- Segurança de Dados
+
+DataOps reconhece a natureza interligada da engenharia de dados, integração de dados, qualidade de dados e segurança de dados e tem como objetivo ajudar uma empresa a entregar rapidamente os dados que poderão acelerar a análise e permitir resultados antes impossíveis.
+
+Em resumo, DataOps, é um conjunto de melhores práticas que visam tornar suficiente a coordenação entre a Ciência de Dados e as operações de dados e tornou-se assim um assunto fundamental para qualquer organização de TI que queira sobreviver e prosperar em um mundo onde inteligência de negócios em tempo real é uma necessidade competitiva.
+
+----------------------------------------------------
+Data Lake
+é um termo recente, criado pelo CTO do Pentaho, James Dixon, para descrever um componente importante no universo da Ciência de Dados e do Big Data.
+
+A ideia é ter um único repositório dentro da empresa, para que todos os dados brutos estejam disponíveis a qualquer pessoa que precise fazer análise sobre eles.
+
+Data Lake // Data Swamp
+Os Data Lakes armazenam os dados em seu formato bruto, sem qualquer processamento e sem governança.
+
+Data Lake é um conceito e não uma tecnologia.
+
+O Data Lake em essência, é uma estratégia de armazenamento de dados.
+
+Quando se ouve falar sobre um ponto único para reunir todos os dados que uma organização deseja analisar, imediatamente se imagina a noção de Data Warehouse e Data Mart.
+
+----------------------------------------------------
+Data Lake x Data Warehouse
+
+Data Lake: armazena dados, brutos, sob qualquer forma do jeito que foram coletados na fonte de dados.
+Ex. pegar dados do Twitter e não limpa-los, salvar como é pego os dados originais.
+Não há suposições sobre o esquema dos dados e cada fnte de dados pode usar qualquer esquema. Cabe aqueles que vão analisar os dados, dar sentido a esses dados para o propósito ao qual a análise se destina.
+
+Data Warehouse: tende a usar a noção de um único esquema para todas as necessidades de análise, o que se torna impraticável em muitas situações relacionadas a Big Data.
+Os dados são limpos e organizados antes do armazenamento, fazendo com que os dados estejam disponíveis para uso e análise, assim que são armazenados.
+
+
+Ao mudar o foco para o armazenamento dos dados brutos, isso coloca a responsabilidade sobre os Cientistas de Dados.
+
+
+Big Data -> Data Lake -> Ciência de Dados
+
+----------------------------------------------------
+Enterprise Data Hub
+É um modelo de gerenciamento de Big Data que usa uma plataforma Hadoop como o repositório de dados central.
+O objetivo de um Enterprise 
+
+O objetivo de um Enterprise Data Hub é permitir que a empresa tenha fonte de dados centralizada e unificada que possa fornecer rapidamente informações a diversos usuários de negócio, apoiando a tomada de decisão.
+Todos os aplicativos de analytics se conectam ao EDH para extrair as informações para análise.
+
+A introdução de um Enterprise Data Hub no cerne da arquitetura de informação de uma empresa, promove a centralização de todos os dados, em todos os formatos, disponíveis para todos os usuários de negócio, com total fidelidade e segurança e custo até 99% menor por Terabyte, em comparação com um Data Warehouse tradicional.
+
+Um Enterprise Data Hub serve como um repositório flexível para coletar e manter dados de forma ilimitada, seja para fins de conformidade ou para aplicações sofisticadas, como detecção de anomalias em tempo real.
+
+O conceito de EDH (Enterprise Data Hub), não chega a ser exatamente novo, pois já existem os EDWs (Enterprise Data Warehouse).
+
+O desafio está em mover a empresa de um modelo tradicional de gestão de dados, para um modelo voltado ao Big Data e suas particularidades como volume, velocidade e variedade, permitindo assim a plena utilização da Ciência de Dados.
+
+O Enterprise Data Hub inclui:
+- Reservatório de Dados ou Data Lake
+- Exploração do Big Data
+- Fácil acesso aos dados
+- Armazenamento de dados em formato nativo
+- Fonte para projetos de Data Science.
+
+----------------------------------------------------
+
+Open Data
+
+Abaixo, algumas fontes de open data:
+
+Dados do Governo do Brasil: http://dados.gov.br
+
+IPEA: http://www.ipeadata.gov.br
+
+Banco Central do Brasil: https://www3.bcb.gov.br
+
+Dados do Governo dos EUA: http://data.gov
+
+Dados sobre as cidades americanas: http://datasf.org
+
+Dados do Governo do Canadá (em inglês e francês): http://open.canada.ca
+
+Dados do Governo do Reino Unido: https://data.gov.uk
+
+Dados da União Europeia: http://open-data.europa.eu/en/data
+
+Dados do Censo dos EUA (dados da população americana e mundial): http://www.census.gov
+
+Dados da NASA: https://data.nasa.gov
+
+Dados do Banco Mundial: http://data.worldbank.org
+
+Dados sobre a saúde: http://www.healthdata.gov
+
+Dados públicos da Amazon: http://aws.amazon.com/datasets
+
+Dados sobre diversos países (incluindo o Brasil): http://knoema.com
+
+Dados sobre diversas áreas de negócio e finanças: https://www.quandl.com
+
+Google Trends: https://www.google.com/trends
+
+Google Finance: https://www.google.com/finance
+
+Gapminder: http://www.gapminder.org/data
+
+Dados sobre milhões de músicas: https://aws.amazon.com/datasets/million-song-dataset
+
+Dados sobre os mais diversos assuntos: http://www.freebase.com
+
+DBpedia: http://wiki.dbpedia.org/
+
+Open Data Monitor: http://opendatamonitor.eu
+
+Open Data Network: http://www.opendatanetwork.com
+
+R Datasets: http://www.stats4stem.org/data-sets.html
+
+R Datasets packages: R Dataset packages
+
+Datasets: http://www.statsci.org/datasets.html
+
+Portal de Estatística: http://www.statista.com
+
+Data 360: http://www.data360.org
+
+Reconhecimento de Faces: http://www.face-rec.org/databases
+
+Stanford Large Network Dataset Collection: http://snap.stanford.edu/data
+
+Datahub: http://datahub.io/dataset
+
+
+
+----------------------------------------------------
+

@@ -1,0 +1,110 @@
+
+Projetos de Ciência de Dados
+
+Ciclo de Vida de Projetos de Data Science
+Todo projeto de Data Science deve começar com o objetivo, ou seja, as questões que precisam ser respondidas.
+
+Depois de formuladas as questões, busca-se os dados que ajudarão a respondê-las.
+
+A maturidade da disciplina de Gestão de Projetos, permite que boas práticas de gerenciamento de projetos, como as definidas pelo PMI (Project Management Institute), possam ser utilizadas em projetos de Data Science.
+
+Não há porque reinventar a roda. Conhecimento e experiência adquiridos em Gestão de Projetos, serão fundamentais para o sucesso de projetos de Data Science.
+
+
+- Inicialmente, é vital compreender o problema a ser resolvido.
+- Isso pode parecer óbvio, mas projetos de negócios raramente vem empacotados de forma clara.
+- Avaliar e reavaliar o problema e desenhar uma solução, é um processo iterativo de descoberta
+- Na prática, o maior desafio em Ciência de Dados, está na identificação do problema.
+
+E diversas técnicas analíticas podem ser usadas no processo:
+- Estatística
+- Busca em banco de dados (Database Query)
+- Data Warehousing
+- Análise de Regressão
+- Machine Learning e Data Mining
+
+----------------------------------------------------
+Exemplos de DEfinição do Problema de Negócio
+
+
+
+Imagine que uma empresa tenha a seguintes dúvidas
+
+- Quais são os clientes mais rentáveis?
+R. Esta pergunta poderia facilmente ser respondida com uma consulta simples a um banco de dados, usando linguagem SQL.
+
+
+- Existe diferença entre os clientes mais rentáveis e a média dos clientes?
+R. Aqui poderíamos usar a Estatística, realizando um teste de hipótese para confirmar ou não nossa tese que de os clientes mais rentáveis possue diferença em relação à média dos clientes.
+
+- Algum cliente em particular estará no grupo dos mais rentáveis? Quanto de faturamento posso esperar vindo deste cliente?
+Aqui poderíamos utilizar Data Mining, para examinar o histórico dos clientes e criar modelos preditivos de geração de lucro por cliente. Estes modelos poderiam ser aplicados automaticamente usando Machine Learning.
+
+A identificação do problema a ser resolvido, vai impactar todo o projeto de Data Science, não só com relação aos recursos que serão adotados.
+
+----------------------------------------------------
+
+Ciclo de Vida
+
+Preparação -> Engenharia de Dados -> Analytics -> Produção
+
+
+Preparação:
+- Definição do objetivo
+- Compreensão do problema
+- Conhecimento dos dados
+
+Engenharia de Dados:
+- Aquisição
+- Limpeza
+- Transformação
+- Enriquecimento
+- Persistência
+
+Analytics:
+- Análise Exploratória de Dados
+- Inferências
+- Modelagem
+- Predição
+- Comunicação
+
+Produção:
+- Construção de produtos de dados
+- Operacionalização de alimentação de dados
+- Melhoria contínua
+
+----------------------------------------------------
+
+Fases do Projeto
+(Pipeline)
+
+Dados -> Análise Exploratória de Dados-> Modelagem -> Interpretação -> Comunicação
+
+
+----------------------------------------------------
+
+Produtos Gerados
+- Relatórios
+- Narrativas
+- Apresentações
+- Web Sites
+- Aplicativos
+
+{
+- Facilidade de Uso
+- Reprodutibilidade
+- Documentação
+- Conclusões Concisas
+}
+
+----------------------------------------------------
+
+Cultura Orientada a Dados (Cultura Data-Drive)
+
+Uma empresa com cultura orientada a dados, reconhece a importância do Big Data e como a análise destes dados, pode levar a empresa a criar produtos e serviços personalizados e totalmente aderentes as necessidades do público.
+
+
+
+
+----------------------------------------------------
+

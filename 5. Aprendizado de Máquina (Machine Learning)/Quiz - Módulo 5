@@ -1,0 +1,56 @@
+Questão 1
+O que é Machine Learning ?
+
+
+- Machine Learning é uma tecnologia de Big Data que permite realizar programação em maquinas virtuais. 
+
+- Machine Learning, ou aprendizado de máquina, é um subcampo da Inteligência Artificial que constrói algoritmos que permitem que os computadores possam aprender a executar tarefas a partir de dados, ao invés de serem programados de forma explícita.(correta)
+
+- Machine Learning, ou aprendizado de máquina, é uma linguagem de programação para ensinar novos programados a construírem seus sistemas em ambientes operacionais.
+
+- Nenhuma definição acima.
+
+
+Questão 2
+
+Existem 2 categorias principais de algoritmos de Machine Learning. Marque as categorias corretas:
+
+- Positiva e Negativa
+- Artificial e Natural
+- Supervisionada e Não-Supervisionada(correta)
+- Neural e Científica
+
+
+Questão 3
+Sobre a Aprendizagem Supervisionada é incorreto afirmar:
+
+- Aprendizagem supervisionada é a categoria mais popular de algoritmos de aprendizagem de máquina. 
+
+- A desvantagem de usar essa abordagem é que, para cada exemplo de treinamento, temos de fornecer a saída correta e, em muitos casos, isso é muito caro.
+
+- Necessitam somente da entrada para o algoritmo, mas não da saída desejada.(correta)
+
+- São exemplos de algoritmos de aprendizado de máquina: Support Vector Machines, Naive Bayes, Árvores de Decisão ou Deep Learning.
+
+
+
+Questão 4
+
+Sobre Redes Neurais Artificiais é incorreto afirmar:
+
+- Uma Rede Neural Artificial é um paradigma de processamento de informação que é inspirado na forma como o cérebro humano processa as informações.
+
+- O elemento chave da redes neurais é a nova estrutura do sistema de processamento de informações.
+
+- É composto por um grande número de elementos de processamento altamente interligados (neurônios) que trabalham em uníssono para resolver problemas específicos. 
+
+- Aprendizagem em sistemas biológicos envolve adaptações dos conexões sinápticas que existem entre os neurônios. 
+
+- É um tipo de tecnologia que ainda está em fase inicial e tem pouca aplicabilidade para problemas de negócios do mundo real.(correta)
+
+
+Questão  5
+Machine Learning pode ser aplicada em problemas quantitativos (números) e qualitativos (grupos de dados).
+
+-Verdadeiro (correta)
+-Falso

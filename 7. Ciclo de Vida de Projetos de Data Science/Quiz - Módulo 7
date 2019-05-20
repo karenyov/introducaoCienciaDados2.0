@@ -1,0 +1,43 @@
+Questão 1
+Por onde devemos começar um projeto de Data Science ?
+
+- Pelo levantamento de dados.
+- Pela reunião de início de gerenciamento do projeto.
+- Pelo objetivo, ou seja, as questões que precisam ser respondidas. (correta)
+- Pela preparação dos dados do projeto.
+
+
+Questão 2
+Quais as fases do ciclo de vida de projeto de Data Science?
+
+- Compreensão do problema --> compreensão dos dados --> preparação dos dados --> modelagem --> avaliação --> implementação.(correta)
+
+- Compreensão dos dados--> compreensão do problema --> preparação dos dados --> modelagem --> avaliação --> revisão.
+
+- Compreensão do problema --> compreensão dos dados --> preparação dos dados --> modelagem --> avaliação --> testes.
+
+- Preparação dos dados --> compreensão dos dados --> identificação do problema--> modelagem --> avaliação --> implementação.
+
+
+Questão 3
+A cultura orientada por dados é conhecida como:
+
+- Data-Science culture.
+- Data-driven culture. (correta)
+- Data-lake culture.
+- DataOps culture.
+
+
+Questão 4
+A identificação do problema a ser resolvido, pode impactar todo o projeto de Data Science, não só com relação ao custo, mas também com relação aos recursos que serão adotados.
+
+- Verdadeiro (correta)
+- Falso
+
+
+Questão 5
+A Formação Cientista de Dados aqui na Data Science Academy oferece 26 projetos de Data Science completos, do início ao fim!
+
+- Verdadeiro (correta)
+- Falso
+

@@ -1,0 +1,91 @@
+O que são dados?
+
+- procedimentos Médicos
+- Mídias Sociais
+- Notícias e Jornais
+- Imagens por satélite
+- E-commerce
+- TV & Vídeo
+- Sensores e Sistemas de Monitoramento
+
+	Coleta
+	   |
+	   V
+	Correlação
+	   |
+	   V
+	Análise
+           |
+           V
+	Insights
+----------------------------------------------------
+O que os dados representam?
+
+Entidade
+Características
+Ambiente
+Evento
+Comportamento
+Resultado
+Observação
+----------------------------------------------------
+Dados e Informação
+
+Dados são coleções de fatos, tais como números, palavras, medições, observações ou mesmo apenas descrições de coisas.
+A maioria das pessoas acredita que os termos "dados" e "informação" são intercambiáveis e significam a mesma coisa.
+
+No entanto, há ua diferença distinta entre as duas palavras.
+
+Os dados podem ser qualquer caracter, texto, palavras, números, imagens, som ou vídeo e, se não colocados em contexto, significam pouco ou nada para um ser humano.
+
+No entanto, a informação é útil e formatada de uma maneira geral, permitindo que seja entendida por um ser humano.
+
+----------------------------------------------------
+O que é um dataset?
+
+Conjunto de dados
+
+
+- Coleção de observações
+- Cada obsevação é tipicamente chamada de registro
+- Cada registro tem um conuunto de atributos que apontam características, comportamentos ou resultados
+
+
+Datasets podem ser de 3 tipos:
+
+Estruturados: bancos de dados
+Semi Estruturados: e-mail
+Não Estruturados: twitter
+
+
+Formato dos Dados
+	   Estruturado                Não-estruturado
+
+	|Resultado de pesquisas      |E-mails,mensagens de texto
+Interno |Registros de vendas	     |Legendas de vídeos
+	|Medidas de controle de      |Comentários de clientes
+	|processos                   |Mensagem de voz
+	|bancos de dados de sistemas |Imagens/ilustrações
+	|internos(ERP,CRM)           |avaliação de funcionários
+	|
+	|
+Externo |Likes do Facebook, retweets |Conteúdo em redes sociais
+	|Horário de publicação de    |Comentários em foruns online
+	|posts, tweets, updates      |Imagens
+	|Pontuação em sites de clas- |Vídeos de câmeras de
+	|sificação		     |segurança
+----------------------------------------------------
+Big Data?
+É uma coleção de conjuntos de dados, grandes e complexos, que não podem ser processador por bancos de dados ou aplicações de processamentos tradicionais.
+
+
+----------------------------------------------------
+
+
+
+
+
+
+
+----------------------------------------------------
+

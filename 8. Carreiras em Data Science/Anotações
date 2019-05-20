@@ -1,0 +1,144 @@
+
+
+Carreiras em Data Science
+
+
+O Mercado de Ciência de Dados e Big Data
+
+
+
+----------------------------------------------------
+Carreiras em Data Science
+
+1) Cientistas de dados
+Profissionais capacitados em estatística, ciência da computação e/ou matemática capazes de analisar grandes volumes de dados e extrair deles insights que criem novas oportunidades de negócio.
+
+2) Analistas de negócio
+Conhecendo bem o negócio em que atuam conseguem formular as perguntas corretas, analisar as respostas e tomar decisões estratégicas e táticas que alavanquem novos negócios ou aumentem a lucratividade da empresa. Esta função tende a ser acoplada às funções do Cientista de Dados.
+
+3) Profissionais de tecnologia
+Cuidam da infraestrutura e do suporte técnico para suportar Big Data. O aparato tecnológico de Big Data não é muito comum em empresas tipicamente comerciais, pois demanda expertise em gerenciar hardware em clusters de alta performance.
+
+----------------------------------------------------
+
+Analista de Negócios
+- Estabelecer os objetivos e o âmbito de sistemas de negócio e de TI 
+- Identificar problemas orgenizacionais e conceber soluções orientadas a dados
+- Realizar análises estatísticas, pesquisas, oficinas de formação e testes
+- Recomendar mudanças nos processos, pessoal ou ofertas de produtos para tornar os departamentos internos mais eficientes
+- Conceber novos sistemas ou alterar os existentes
+- Fazer recomendação específicas de TI e apoiar a sua implementação
+- Agir como um elo de ligação entre os gestores e equipes técnicas
+- Propor suas decisões baseadas em dados
+
+
+Curso recomendado na DSA: Business Analytics
+
+
+----------------------------------------------------
+
+Analista de Dados
+- Trabalhar com as equipes de TI, gestão e / ou Cientistas de Dados para determinar os objetivos organizacionais
+- Coletar dados de fontes primárias e secundárias
+- Realizar limpeza nos dados e descartas informações irrelevantes
+- Analisar e interpretar os resultados utilizando ferramentas estatísticas e técnicas convencionais
+- Identificar tendências, correlações e padrões em conjuntos de dados complexos
+- Identificar novas oportunidades para melhoria de processos
+- Concepção, ciração e manutenção de bancos de dados relacionais e NoSQL e sistemas de dados
+- Resolver problemas de código e questões relacionadas a dados
+- Dominar linguagens (R, Python, SQL) e softwares de análise de dados (SAS, Tableau, Qlik)
+
+Cursos recomendados na DSA: Big Data Analytics com R e Azure e Big Data Real-Time Analytics com Python e Spark.
+
+----------------------------------------------------
+Arquiteto de Dados
+
+- Colaborar com as equipes de TI e gestão para elaborar uma estratégia de dados que atenda os requisitos da empresa
+- Criar um inventário de dados necessários para implementar a arquitetura
+- Pesquisar novas oportunidades de aquisição de dados
+- Identificar e avaliar as atuais tecnologias de genrenciamento de dados
+- Criar um fluxo de dados dentro da empresa
+- Desenvolver modelos de dados
+- Projetar, documentar, construir e implantar arquiteturas e aplicações de banco de dados (por exemplo, grandes bancos de dados relacionais e NoSQL)
+- Integrar a funcionalidade técnica (por exemplo, escabilidade, segurança, desempenho, recuperação de dados, confiabilidade, etc.)
+- Implementar medidas para assegurar a precisão dos dados e acessibilidade
+
+Cursos recomendados na DSA: Arquiteto de Soluções AWS, Engenharia de dados com Hadoop e Spark ou Formação Engenheiro de Dados
+
+----------------------------------------------------
+Engenheiro de Dados
+- Projetar, construir, instalar, testar e manter sistemas de gerenciamento de dados altamente escaláveis
+- Construir algoritmos de alto desempenho, protótipos, modelos preditivos e provas de conceito
+- Pesquisar a aquisição de dados e novos usos para os dados existentes
+- Desenvolver processos de conjuntos de dados para modelagem de dados, mineração e produção
+- Integrar novas tecnologias de gerenciamento de dados e ferramentas de engenharia de software nas estruturas existentes
+- Criar componentes personalizados de software e aplicações analíticas 
+- Empregar uma variedade de linguagens e ferramentas
+- Instalar e atualizar os procedimentos de recuperação de desastres e qualidade
+- Dominar tecnologias como Hadoop, Spark e cassandra
+
+Cursos recomendados na DSA: Formação Engenheiro de Dados
+
+
+----------------------------------------------------
+Administrador de Banco de Dados
+
+- Suporte técnico aos bancos de dados existentes
+- PErsonalização de bancos de dados comerciais para necessidades específicas
+- Planejamento e projeto de bancos de dados para necessidades específicas
+-Solução de problemas para atender às necessidades dos clientes 
+- Desenvolvimento de Bancos de Dados para uma ampla variedade de aplicações
+- Supervisão da instalação de novos SGBD
+- Criar procedimentos de backup, restauração e recuperação de desastres
+- Atuar com bancos de dados relacionais e não relacionais
+
+Cursos recomendados na DSA: Design e Implementação de Data Warehouses, Gerenciamento de Dados com MongoDB e SQL para Big Data.
+----------------------------------------------------
+
+Estatístico
+
+- Aplicar teorias e métodos estatísticos para resolver problemas práticos de negócios, engenharia, ciência ou outras áreas de conhecimento
+- Decidir quais dados são necessários para responder a perguntas ou problemas específicos
+- DEterminar métodos para encontrar ou coletar dados
+- Realizar pesquisas de opinião para coletar dados
+- Coletar dados ou treinar outras pessoas a fazê-lo
+- Analisar e interpretar dados
+- Relatar conclusões a partir de suas análises
+- Decidir sobre uma estratégia adequada para coletar dados 
+- Extrair dados de fontes existentes ou instigar novos procedimentos (por exemplo, pesquisas com clientes, experiências científicas, sondagens de opnião, etc.)
+- Analisar e interpretar dados usando ferramentas, algoritmos, modelos estatísticos e software (por exemplo R, SAS, SPSS, etc.).
+
+
+Cursos recomendados na DSA: Formação Cientistas de Dados
+
+----------------------------------------------------
+Cientista de Dados
+
+- Comunicar previsões e resultados para a gestão e os departamentos de TI através de visualizações de dados eficazes
+- Extrair grandes volumes de dados de múltiplas fontes internas e externas
+- Empregar os programas de análise sofisticadas, aprendizado de máquina e métodos estatísticos para preparar os dados para uso em modelagem preditiva e prescritiva
+- Explorar e analisar dados de uma variedade de ânguloes para determinar fraquezas escondidas, tendências e / ou oportunidades
+- Conceber soluções orientadas a dados para os principais desafios da empresa
+- Criar novos algoritmos para resolver problemas e criar novas ferramentas para automatizar o trabalho
+- Recomendar mudanças econômicas aos procedimentos e estatégias existentes
+
+Cursos recomendados na DSA: Formação Cientistas de Dados
+
+
+----------------------------------------------------
+
+Funções Gerenciais em Data Science
+
+3 posições chave em liderança de projetos de Data Science são facilmente identificáveis:
+
+- Líder de Equipes de Data Science
+- Gerente de Dados e Analytics
+- Chief Data Officer
+
+
+
+
+
+
+
+----------------------------------------------------
